@@ -1,33 +1,3 @@
-/* #todo{
-    background-color:  green;
-    width: 600px;
-    height: 500px;
-    margin: auto;
-    border-radius: 20px;
-    border: 1px solid white;
-}
-h2{
-    text-align: center;
-    margin-bottom: 50px;
-}
-.assign{
-    width: 200px;
-    height: 40px;
-    text-align: center;
-    margin-left: 150px;
-    margin-top: 20px;
-    border: 1px solid black;
-    border-radius: 10px;
-}
-button{
-    background-color: brown;
-    width: 100px;
-    height: 45px;
-    margin-top: 20px;
-    color: white;
-    border: 1px solid black;
-    border-radius: 10px;
-} */
 
 * {
     margin: 0;
@@ -45,7 +15,7 @@ button{
   }
   
   .container {
-    background-color: rgb(12, 231, 23);
+    background-color: rgb(5, 226, 16);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -87,22 +57,22 @@ button{
     align-items: center;
   }
   
-  /* li.completed {
+  li.completed {
     text-decoration: line-through;
     color: #aaa;
-  } */
+  } 
   
-  /* .delete-btn {
+  .delete-btn {
     background-color: #d9534f;
     color: white;
     padding: 5px 10px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
-  } */
-/*   
+  }  
+  
   .delete-btn:hover {
     background-color: #c9302c;
   }
-   */
+   
 
